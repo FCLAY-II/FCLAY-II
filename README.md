@@ -3,6 +3,7 @@
 ## And I'am a JavaScript Developer from Moscow!
 
 - 🤟 I like to write code!
+- 🤌 I like to create and support projects that people will use.
 
 ### 🤔 Where can you find me?
 
