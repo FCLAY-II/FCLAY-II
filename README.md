@@ -41,7 +41,7 @@
 [![ExpressJS](https://img.shields.io/badge/-Express.js-333?logo=express&style=for-the-badge)](https://expressjs.com/ru/)
 [![Sequelize](https://img.shields.io/badge/-Sequelize-f9fbfa?logo=Sequelize&style=for-the-badge)](https://sequelize.org/master/)
 [![Jest](https://img.shields.io/badge/-Jest-97737e?logo=jest&style=for-the-badge)](https://jestjs.io/ru)
-[![Styled-components](https://img.shields.io/badge/-styled-components-97737e?logo=styled-components&style=for-the-badge)](https://jestjs.io/ru)
+[![Styled-components](https://img.shields.io/badge/-styledcomponents-97737e?logo=styledcomponents&style=for-the-badge)](https://jestjs.io/ru)
 
 ### 🌱 I’m currently learning:
 
