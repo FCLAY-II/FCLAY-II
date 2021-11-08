@@ -34,7 +34,7 @@
 [![Material-UI](https://img.shields.io/badge/-materialui-1572B6?logo=Material-UI&style=for-the-badge)](https://material-ui.com/ru/)
 [![Heroku](https://img.shields.io/badge/-Heroku-431490?logo=heroku&style=for-the-badge)](https://www.heroku.com/)
 [![WebSocket](https://img.shields.io/badge/-WebSocket-f9fbfa?logo=websocket&style=for-the-badge)](https://developer.mozilla.org/ru/docs/Web/API/WebSocket)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-710B77?logo=bootstrap&style=for-the-badge)](https://getbootstrap.com/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7852b2?logo=bootstrap&style=for-the-badge)](https://getbootstrap.com/)
 <br />
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-f9fbfa?logo=PostgreSQL&style=for-the-badge)](https://www.postgresql.org/)
 [![ExpressJS](https://img.shields.io/badge/-Express.js-333?logo=express&style=for-the-badge)](https://expressjs.com/ru/)
