@@ -37,6 +37,7 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-431490?logo=heroku&style=for-the-badge)](https://www.heroku.com/)
 [![WebSocket](https://img.shields.io/badge/-WebSocket-f9fbfa?logo=websocket&style=for-the-badge)](https://developer.mozilla.org/ru/docs/Web/API/WebSocket)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-f9fbfa?logo=bootstrap&style=for-the-badge)](https://getbootstrap.com/)
+[![Postman](https://img.shields.io/badge/-Postman-f9fbfa?logo=Postman&style=for-the-badge)](https://getbootstrap.com/)
 <br />
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-f9fbfa?logo=PostgreSQL&style=for-the-badge)](https://www.postgresql.org/)
 [![ExpressJS](https://img.shields.io/badge/-Express.js-333?logo=express&style=for-the-badge)](https://expressjs.com/ru/)
