@@ -1,6 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , &nbsp; I'm Kirill
 
-### And I'am a JavaScript Developer from Moscow!
+### 👨🏼‍💻 And I'am a JavaScript Developer from Moscow!
 
 - 🤟 I like to write code!
 - 🤌 I like to create and support projects that people will use.
@@ -52,7 +52,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FCLAY-II&layout=compact)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=gotham" alt="Kirill Belokopytov" />
 <img src="https://github-readme-stats.vercel.app/api?username=FCLAY-II&show_icons=true&theme=gotham" alt="Kirill Belokopytov" />
 
-### Профиль на CodeWars:
+### 🥷🏻 Профиль на CodeWars:
 
 [![CodeWars](https://img.shields.io/badge/-CodeWars-333?logo=CodeWars&style=for-the-badge)](https://www.codewars.com/users/KirillMyFirst)
 <img align="left" alt="Kirill Belokopytov | Mail" width="270px" src='./img/codewars.png'/>
