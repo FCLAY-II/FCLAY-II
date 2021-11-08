@@ -27,7 +27,7 @@
 [![JWT](https://shields.io/badge/-JWT-333?logo=JSONWebTokens&style=for-the-badge)](https://jwt.io/)
 [![Redis](https://shields.io/badge/-Redis-f9fbfa?logo=Redis&style=for-the-badge)](https://redis.io/)
 <br />
-[![Node](https://shields.io/badge/-Node-333?logo=node.js&style=for-the-badge)](https://nodejs.org/en/)
+[![Styled-components](https://img.shields.io/badge/-styledcomponents-f9fbfa?logo=styledcomponents&style=for-the-badge)](https://styled-components.com/)
 [![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)](https://git-scm.com/)
 [![GitHub](https://shields.io/badge/-GitHub-333?logo=GitHub&style=for-the-badge)](https://github.com/)
 [![HTML](https://shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=fff)](https://html5book.ru/html-html5/)
@@ -42,7 +42,7 @@
 [![ExpressJS](https://img.shields.io/badge/-Express.js-333?logo=express&style=for-the-badge)](https://expressjs.com/ru/)
 [![Sequelize](https://img.shields.io/badge/-Sequelize-f9fbfa?logo=Sequelize&style=for-the-badge)](https://sequelize.org/master/)
 [![Jest](https://img.shields.io/badge/-Jest-97737e?logo=jest&style=for-the-badge)](https://jestjs.io/ru)
-[![Styled-components](https://img.shields.io/badge/-styledcomponents-f9fbfa?logo=styledcomponents&style=for-the-badge)](https://styled-components.com/)
+[![Node](https://shields.io/badge/-Node-333?logo=node.js&style=for-the-badge)](https://nodejs.org/en/)
 
 ### 🌱 I’m currently learning:
 
