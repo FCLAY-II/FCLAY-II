@@ -26,13 +26,14 @@
 [![Redux](https://shields.io/badge/-Redux-710B77?logo=redux&style=for-the-badge)](https://redux.js.org/)
 [![JWT](https://shields.io/badge/-JWT-333?logo=JSONWebTokens&style=for-the-badge)](https://jwt.io/)
 [![Redis](https://shields.io/badge/-Redis-f9fbfa?logo=Redis&style=for-the-badge)](https://redis.io/)
-[![Handlebars](https://shields.io/badge/-Handlebars-FF8000?logo=Handlebars.js&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/) 
+[![Handlebars](https://shields.io/badge/-Handlebars-FF8000?logo=Handlebars.js&style=for-the-badge&logoColor=222)](https://handlebarsjs.com/) 
 <br />
 [![Styled-components](https://img.shields.io/badge/-styledcomponents-f9fbfa?logo=styledcomponents&style=for-the-badge)](https://styled-components.com/)
 [![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)](https://git-scm.com/)
 [![GitHub](https://shields.io/badge/-GitHub-333?logo=GitHub&style=for-the-badge)](https://github.com/)
 [![HTML](https://shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=fff)](https://html5book.ru/html-html5/)
 [![CSS](https://shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=fff)](https://html5book.ru/osnovy-css/)
+[![NPM](https://shields.io/badge/-NPM-FF0000?logo=NPM&style=for-the-badge&logoColor=fff)](https://www.npmjs.com/)
 <br />
 [![Material-UI](https://img.shields.io/badge/-materialui-1572B6?logo=Material-UI&style=for-the-badge)](https://material-ui.com/ru/)
 [![Heroku](https://img.shields.io/badge/-Heroku-431490?logo=heroku&style=for-the-badge)](https://www.heroku.com/)
