@@ -26,7 +26,7 @@
 [![Redux](https://shields.io/badge/-Redux-710B77?logo=redux&style=for-the-badge)](https://redux.js.org/)
 [![JWT](https://shields.io/badge/-JWT-333?logo=JSONWebTokens&style=for-the-badge)](https://jwt.io/)
 [![Redis](https://shields.io/badge/-Redis-f9fbfa?logo=Redis&style=for-the-badge)](https://redis.io/)
-[![Handlebars](https://shields.io/badge/-Handlebars.js-F7DF1E?logo=Handlebars&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/) 
+[![Handlebars](https://shields.io/badge/-Handlebars-F7DF1E?logo=Handlebars.js&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/) 
 <br />
 [![Styled-components](https://img.shields.io/badge/-styledcomponents-f9fbfa?logo=styledcomponents&style=for-the-badge)](https://styled-components.com/)
 [![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)](https://git-scm.com/)
