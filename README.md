@@ -50,7 +50,7 @@
 ### 🌱 I’m currently learning:
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-f9fbfa?logo=TypeScript&style=for-the-badge)](https://www.typescriptlang.org/)
-[![Next.js](https://img.shields.io/badge/-Next.js-f9fbfa?logo=Next.js&style=for-the-badge)](https://nextjs.org/)
+[![Next.js](https://img.shields.io/badge/-Next.js-1572B6?logo=Next.js&style=for-the-badge)](https://nextjs.org/)
 
 
 ### 📈 My GitHub:
